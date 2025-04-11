@@ -16,7 +16,4 @@ On launch, the app makes a GET request to the API endpoint. The JSON response is
 
 ## Screenshot->
 
-![Screenshot 2025-04-11 at 9 51 39 AM](https://github.com/user-attachments/assets/a627b19c-4986-4e55-a765-3dd46a826732)
-
-
-![Screenshot 2025-04-11 at 9 50 41 AM](https://github.com/user-attachments/assets/37016754-b66d-4c24-98c7-f2be613d8dda)
+![Uploading imgonline-com-ua-twotoone-2VNIVJ8Y2H3iUJKs.jpg…]()
