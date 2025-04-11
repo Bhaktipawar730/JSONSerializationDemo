@@ -1,0 +1,22 @@
+# JSONSerializationDemo
+
+**JSONSerializationDemo** is an iOS application built using Swift and UIKit. It demonstrates how to perform network requests using `URLSession`, manually parse JSON data using `JSONSerialization`, and display the parsed data in a `UITableView` with a custom cell.
+
+## Features
+
+- Sends a GET request to a public API: `https://jsonplaceholder.typicode.com/posts`
+- Uses `URLSession` for asynchronous networking
+- Parses raw JSON into a custom model using `JSONSerialization`
+- Displays the data in a scrollable `UITableView`
+- Implements a custom `UITableViewCell` with labels for user ID, post ID, title, and body
+
+## How It Works
+
+On launch, the app makes a GET request to the API endpoint. The JSON response is parsed into an array of `Model` objects. These objects are then displayed in the table view using a reusable custom cell, each showing relevant post details in a structured format.
+
+## Screenshot->
+
+![Screenshot 2025-04-11 at 9 51 39 AM](https://github.com/user-attachments/assets/a627b19c-4986-4e55-a765-3dd46a826732)
+
+
+![Screenshot 2025-04-11 at 9 50 41 AM](https://github.com/user-attachments/assets/37016754-b66d-4c24-98c7-f2be613d8dda)
